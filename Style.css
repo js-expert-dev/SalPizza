@@ -1,0 +1,11 @@
+body, html {
+    height: 100%;
+  }
+body{
+    background-image: url("Images/Home_bakground");
+    
+    
+}
+#col_red{
+    color: red;
+}
