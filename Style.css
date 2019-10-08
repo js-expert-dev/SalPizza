@@ -9,3 +9,12 @@ body{
 #col_red{
     color: red;
 }
+
+#bodymobile{
+  
+    background-image: url(Images/mobile.jpg);
+    background-repeat: no-repeat;
+}
+#lower{
+    text-transform: lowercase ;
+}
